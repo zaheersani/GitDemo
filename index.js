@@ -9,7 +9,7 @@ import router from './routes/users.js';
 // const bodyParser = require('body-parser')
 
 const app = express()
-const port = 3002
+const port = 3000
 
 app.use(bodyParser.json())
 // Adding a Router
